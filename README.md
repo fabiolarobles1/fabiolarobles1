@@ -9,9 +9,9 @@ I'm Fabiola and here is a little bit about myself:
 - 🙂 Pronouns: She/Her
 
 ### About my GitHub
-Here you would find a variety of projects (some of them not finished) that I have worked on during the past years. You would find groups projects, course projects, personal projects, etc. It may seem a little messy, but what's developing without a liitle of brainstorming right? \
+Here you would find a variety of projects (some of them not finished) that I have worked on during the past years. You would find groups projects, course projects, personal projects, etc. It may seem a little messy, but what's developing without a liitle of brainstorming right? 
 
-Pinned below are some of my favorite projects:
+Pinned below are some of my favorite projects!
 
 <!--
 
