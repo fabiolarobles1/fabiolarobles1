@@ -6,6 +6,7 @@ I'm Fabiola and here is a little bit about myself:
 - 🥋 I am a Black Belt in Karate.
 - ✔️ Incoming Meta SWE Engineer Intern on Summer 2022.
 - 👀 Currently looking for a COOP opportunity in Puerto Rico for the Fall 2022.
+- 👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/fab-robles-vega/)
 - 🙂 Pronouns: She/Her
 
 Here you would find a variety of projects (some of them not finished) that I have worked on during the past years. You would find groups projects, course projects, personal projects, etc. It may seem a little messy, but what's developing without a liitle of brainstorming right? 
