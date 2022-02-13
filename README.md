@@ -11,11 +11,19 @@ I'm Fabiola and here is a little bit about myself:
 ### About my GitHub
 Here you would find a variety of projects (some of them not finished) that I have worked on during the past years. You would find groups projects, course projects, personal projects, etc. It may seem a little messy, but what's developing without a liitle of brainstorming right? \
 
-...
+Pinned below are some of my favorite projects:
+
 <!--
-Below is a are some of my highlights:
 
+Pinned below are some of my projects highlights
 
+https://github.com/fabiolarobles1/semester-project-los-reyes-de-la-punta
+https://github.com/fabiolarobles1/booking-system-joineando-del-verbo-join
+https://github.com/fabiolarobles1/OriginalApp-MusicSharing
+https://github.com/fabiolarobles1/Fabiola-s-Twiter-App
+https://github.com/fabiolarobles1/Tipster
+https://github.com/fabiolarobles1/Flix
+https://github.com/fabiolarobles1/Instagram
 
 
 <!--
