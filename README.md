@@ -12,7 +12,9 @@ I'm Fabiola and here is a little bit about myself:
 Here you would find a variety of projects (some of them not finished) that I have worked on during the past years. You would find groups projects, course projects, personal projects, etc. It may seem a little messy, but what's developing without a liitle of brainstorming right? 
 
 Pinned below are some of my favorite projects!
-
+<p align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiolarobles1&theme=blue-green&show_icons=true&count_private=true)
+</p>
 <!--
 
 Pinned below are some of my projects highlights
