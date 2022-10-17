@@ -4,8 +4,8 @@ I'm Fabiola and here is a little bit about myself:
 - 💻 I'm studying Software Engineering at University of Puerto Rico, Mayagüez Campus.
 - 🎸 I have been playing the guitar for a long time and I'm currently learning to play the drums.
 - 🥋 I am a Black Belt in Karate.
-- ✔️ Meta Software Engineer Intern during Summer 2022 [California, USA].
-- 👀 Incoming Software Automation Engineer (COOP) at Abarca on Fall 2022 [Puerto Rico].
+- ✔️ Meta Software Engineer Intern during Summer 2020, 2021, 2022 [Remote, Remote, California].
+- 👀 Software Automation Engineer (COOP) at Abarca on Fall 2022 [Puerto Rico].
 - 👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/fab-robles-vega/)
 - 🙂 Pronouns: She/Her
 
