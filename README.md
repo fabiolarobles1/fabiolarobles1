@@ -5,7 +5,8 @@ I'm Fabiola and here is a little bit about myself:
 - 🎸 I have been playing the guitar for a long time and I'm currently learning to play the drums.
 - 🥋 I am a Black Belt in Karate.
 - ✔️ Meta Software Engineer Intern during Summer 2020, 2021, 2022 [Remote, Remote, California].
-- 👀 Software Automation Engineer (COOP) at Abarca on Fall 2022 [Puerto Rico].
+- 🩺 Software Automation Engineer (COOP) at Abarca on Fall 2022 [Puerto Rico].
+- 👀 Full-Stack Developer Intern at Manor Bridge Capital (January 2023 - Present) [Puerto Rico].
 - 👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/fab-robles-vega/)
 - 🙂 Pronouns: She/Her
 
