@@ -1,9 +1,10 @@
 ### Hello! Welcome to my GitHub :)
 
 I'm Fabiola and here is a little bit about myself: 
-- 💻 I'm studying Software Engineering at University of Puerto Rico, Mayagüez Campus.
-- 🎸 I have been playing the guitar for a long time and I'm currently learning to play the drums.
+- 💻 B.S. Software Engineering at University of Puerto Rico, Mayagüez Campus (2018-2023)
+- 🎸 I have been playing the guitar for a long time, and sometimes I try to learn the drums.
 - 🥋 I am a Black Belt in Karate.
+- 🏋️‍♀️ I do CrossFit as a hobby, and I've also been getting into running.
 - ✔️ Meta Software Engineer Intern during Summer 2020, 2021, 2022 [Remote, Remote, California].
 - 🩺 Software Automation Engineer (COOP) at Abarca on Fall 2022 [Puerto Rico].
 - 👀 Full-Stack Developer Intern at Manor Bridge Capital (January 2023 - June 2023) [Puerto Rico].
