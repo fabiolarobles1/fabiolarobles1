@@ -5,14 +5,14 @@ I'm Fabiola and here is a little bit about myself:
 - 🎸 I have been playing the guitar for a long time, and sometimes I try to learn the drums.
 - 🥋 I am a Black Belt in Karate.
 - 🏋️‍♀️ I do CrossFit as a hobby, and I've also been getting into running.
-- ✔️ Meta Software Engineer Intern during Summer 2020, 2021, 2022 [Remote, Remote, California].
+- ✔️ Meta Software Engineer Intern during Summer 2020, 2021, 2022 [Remote, New York, California].
 - 🩺 Software Automation Engineer (COOP) at Abarca on Fall 2022 [Puerto Rico].
 - 👀 Full-Stack Developer Intern at Manor Bridge Capital (January 2023 - June 2023) [Puerto Rico].
-- 👩‍💻 Software Engineer at Manor Bridge Capital (July 2023 - Present) [Dorado, Puerto Rico]
+- 👩‍💻 Software Engineer at Manor Bridge Capital (July 2023 - October 2024) [Dorado, Puerto Rico]
 - 👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/fab-robles-vega/)
 - 🙂 Pronouns: She/Her
 
-Here you would find a variety of projects (some of them not finished) that I have worked on during the past years. You would find groups projects, course projects, personal projects, etc. It may seem a little messy, but what's developing without a liitle of brainstorming right? 
+Here you would find a variety of projects (some of them not finished) that I worked on during college years. You would find groups projects, course projects, personal projects, etc. It may seem a little messy, but what's developing without a liitle of brainstorming right? 
 
 Note: Many Java projects are currently private, since they were individual course projects and they were ordered to be private.
 
