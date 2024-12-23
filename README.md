@@ -8,7 +8,8 @@ I'm Fabiola and here is a little bit about myself:
 - ✔️ Meta Software Engineer Intern during Summer 2020, 2021, 2022 [Remote, New York, California].
 - 🩺 Software Automation Engineer (COOP) at Abarca on Fall 2022 [Puerto Rico].
 - 👀 Full-Stack Developer Intern at Manor Bridge Capital (January 2023 - June 2023) [Puerto Rico].
-- 👩‍💻 Software Engineer at Manor Bridge Capital (July 2023 - October 2024) [Dorado, Puerto Rico]
+- 📈 Software Engineer at Manor Bridge Capital (July 2023 - October 2024) [Dorado, Puerto Rico]
+- 👩‍💻 Software Engineer at Red Ventures (December 2024 - Present) [San Juan, Puerto Rico]
 - 👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/fab-robles-vega/)
 - 🙂 Pronouns: She/Her
 
